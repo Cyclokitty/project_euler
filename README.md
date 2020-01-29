@@ -6,3 +6,4 @@
 1. Even Fibonacci Numbers
 1. Largest prime 
 1. Find Largest Palindrome
+1. Smallest multiple

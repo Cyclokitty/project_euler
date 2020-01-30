@@ -7,3 +7,4 @@
 1. Largest prime 
 1. Find Largest Palindrome
 1. Smallest multiple
+1. Sum Square Difference

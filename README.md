@@ -8,3 +8,4 @@
 1. Find Largest Palindrome
 1. Smallest multiple
 1. Sum Square Difference
+1. 10001st Prime

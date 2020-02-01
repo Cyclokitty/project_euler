@@ -9,3 +9,4 @@
 1. Smallest multiple
 1. Sum Square Difference
 1. 10001st Prime
+1. Largest Product in a Series

@@ -10,3 +10,5 @@
 1. Sum Square Difference
 1. 10001st Prime
 1. Largest Product in a Series
+1. Special Pythagroean Triplet (TODO)
+1. Summation of Primes

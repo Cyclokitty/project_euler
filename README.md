@@ -12,3 +12,6 @@
 1. Largest Product in a Series
 1. Special Pythagroean Triplet (TODO)
 1. Summation of Primes
+1.TODO
+1.TODO
+1. Large Sum

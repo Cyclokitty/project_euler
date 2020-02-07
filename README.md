@@ -16,5 +16,5 @@
 1.TODO
 1. Large Sum
 1. Longest Collatz Sequence
-1. Lattice paths TODO
+1. Lattice paths TODOg
 1. Power digit sum

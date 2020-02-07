@@ -18,3 +18,7 @@
 1. Longest Collatz Sequence
 1. Lattice paths TODOg
 1. Power digit sum
+1.TODO
+1. TODO
+1. TODO
+1. Factorial Digit Sum
